@@ -80,18 +80,21 @@
 				<h2 align="center">If you want to be healthy, we can help you to reach your goals.</h2>
 				</br>
 	
-				<h4 align="center">Why Post-Isometric Myorelaxation and Remedial Massage(PIR)?</h4>
+				<h4 align="center">Why Post-Isometric Myorelaxation(PIR) and Remedial Massage?</h4>
 				
 				</br>
 			</div>
 			
 			<div class="container">	
 				<div class="col-lg-7">
-					<p><font size="3">The post-isometric relaxation technique begins by placing the muscle in a stretched position. 
-					Then an isometric contraction is exerted against some level of resistance. Relaxation and then gentle stretch follow as the muscle releases. 
-					This technique was applied to tight, tender muscles that are commonly associated with musculoskeletal pain. 
-					With a combination of PIR, remedial and relaxation massage elements we can stretch all the muscles of your body and will find the point of balance of your health. 
-					PIR technique has been designed to treat not only the cause of the problem but also the whole body. </font></p>
+					<p><font size="3">The post-isometric relaxation technique begins by placing the muscle in 
+					a stretched position. After that an isometric contraction is exerted against the level of 
+					resistance. Relaxation and then gentle muscle stretch follow as the muscle releases. This 
+					technique was applied to painful, tender muscles that are usually associated with musculoskeletal 
+					pain. With a combination of post-isometric myorelaxation, remedial and Swedish massage elements 
+					we can stretch all the muscles of your body and will find the point of balance of your health. 
+					Post-isometric myorelaxation techniques have been designed to treat not only the pain but also 
+					the cause of the problem and the whole body. </font></p>
 				</div>
 				
 				<img src="./img/i (16).jpg" alt='image'>
@@ -106,9 +109,12 @@
 
 		<hr>
 
-		<footer>
-			<p>&copy; RMRC 2013</p>
-		</footer>
+		</br>
+	<footer>
+        <p align="center"><font size="1">4 Bulman Street, Norman Gardens. Phone: 0421951353.</br>
+		Monday to Friday 8:00AM to 8:00PM. Saturday 9:00AM to 4:00PM.</br>
+		&copy; RMRC 2013</font></p>
+	</footer>
 	</div> <!-- /container -->
 </div>
 
