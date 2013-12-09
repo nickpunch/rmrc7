@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="./assets/ico/favicon.png">
 
-    <title>REMEDIAL MASSAGE & REHABILITATION THERAPY</title>
+    <title>REMEDIAL MASSAGE & MUSCULARSKELETAL THERAPY</title>
 
 
     <link href="./dist/css/bootstrap.css" rel="stylesheet">
@@ -27,7 +27,7 @@
 <div id='main'>
 	<div id='cssmenu1'>
 			<ul>
-				<li><a href='index.php'><span>REMEDIAL MASSAGE & REHABILITATION CLINIC</span></a></li>
+				<li><a href='index.php'><span>REMEDIAL MASSAGE & MUSCULARSKELETAL CLINIC</span></a></li>
 			</ul>
 			
 		</div>
@@ -76,7 +76,7 @@
 		<div class="row">
 			
 			<div class="col-lg-10" align="center">
-				<h1 align="center">REMEDIAL MASSAGE & REHABILITATION THERAPY</h1>			
+				<h1 align="center">REMEDIAL MASSAGE & MUSCULARSKELETAL THERAPY</h1>			
 				<h2 align="center">If you want to be healthy, we can help you to reach your goals.</h2>
 				</br>
 	
@@ -113,7 +113,7 @@
 	<footer>
         <p align="center"><font size="2">4 Bulman Street, Norman Gardens. Phone: 0421951353.</br>
 		Monday to Friday 8:00AM to 8:00PM. Saturday 9:00AM to 4:00PM.</br>
-		&copy; RMRC 2013</font></p>
+		&copy; RMMT 2013</font></p>
 	</footer>
 	</div> <!-- /container -->
 </div>
