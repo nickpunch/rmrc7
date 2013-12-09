@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="./assets/ico/favicon.png">
 
-    <title>REMEDIAL MASSAGE & MUSCULARSKELETAL THERAPY</title>
+    <title>REMEDIAL MASSAGE & MUSCULOSKELETAL THERAPY</title>
 
 
     <link href="./dist/css/bootstrap.css" rel="stylesheet">
@@ -27,7 +27,7 @@
 <div id='main'>
 	<div id='cssmenu1'>
 			<ul>
-				<li><a href='index.php'><span>REMEDIAL MASSAGE & MUSCULARSKELETAL CLINIC</span></a></li>
+				<li><a href='index.php'><span>REMEDIAL MASSAGE & MUSCULOSKELETAL CLINIC</span></a></li>
 			</ul>
 			
 		</div>
@@ -76,7 +76,7 @@
 		<div class="row">
 			
 			<div class="col-lg-10" align="center">
-				<h1 align="center">REMEDIAL MASSAGE & MUSCULARSKELETAL THERAPY</h1>			
+				<h1 align="center">REMEDIAL MASSAGE & MUSCULOSKELETAL THERAPY</h1>			
 				<h2 align="center">If you want to be healthy, we can help you to reach your goals.</h2>
 				</br>
 	
